@@ -18,7 +18,7 @@ body {
 /* Mengatur gaya untuk kontainer utama */
 .container {
     text-align: center;
-    padding: 30px;
+    padding: 10px;
     background: rgba(0, 0, 0, 0.5); /* Menambahkan latar belakang semi-transparan untuk meningkatkan keterbacaan teks */
     border-radius: 10px;
     margin: auto;
@@ -31,7 +31,7 @@ body {
 
 /* Gaya untuk judul */
 h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     margin: 0;
 }
 
